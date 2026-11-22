@@ -1,0 +1,82 @@
+{
+ "own_narrative": {
+  "observations": 345581,
+  "authors": 89898
+ },
+ "by_community": {
+  "anxiety": {
+   "observations": 59481,
+   "authors": 18691,
+   "submissions": 29424,
+   "own_comments": 30057,
+   "median_chars": 366.0
+  },
+  "bipolar": {
+   "observations": 42561,
+   "authors": 6235,
+   "submissions": 16304,
+   "own_comments": 26257,
+   "median_chars": 271.0
+  },
+  "depression": {
+   "observations": 168050,
+   "authors": 51689,
+   "submissions": 89486,
+   "own_comments": 78564,
+   "median_chars": 337.0
+  },
+  "suicidewatch": {
+   "observations": 75489,
+   "authors": 21090,
+   "submissions": 29103,
+   "own_comments": 46386,
+   "median_chars": 279.0
+  }
+ },
+ "submissions": 164317,
+ "own_comments": 181264,
+ "pilot": {
+  "authors": 11210,
+  "observations": 43447,
+  "share_of_authors": 0.12469687868473159
+ },
+ "after_pilot": {
+  "observations": 302134,
+  "authors": 78688
+ },
+ "scored": {
+  "observations": 267249,
+  "authors": 43803,
+  "single_observation_texts_not_scored": 34885
+ },
+ "one_community": {
+  "observations": 247439,
+  "authors": 43803,
+  "multi_community_authors": 6360,
+  "observations_dropped": 19810
+ },
+ "cohort_A": {
+  "observations": 124902,
+  "authors": 8382,
+  "submissions": 49651,
+  "own_comments": 75251,
+  "by_community_authors": {
+   "anxiety": 1537,
+   "bipolar": 1275,
+   "depression": 4343,
+   "suicidewatch": 1227
+  },
+  "obs_per_author_median": 9.0,
+  "obs_per_author_q25": 6.0,
+  "obs_per_author_q75": 16.0,
+  "obs_per_author_max": 1323,
+  "span_days_median": 98.64163773148175,
+  "span_days_mean": 123.33107358029108,
+  "gap_days_median": 0.14865162036949187,
+  "gap_days_q25": 0.010520833333430346,
+  "gap_days_q75": 3.2899131944450346,
+  "share_gaps_le_1d": 0.6678939237899073,
+  "share_gaps_gt_7d": 0.1940010298661174,
+  "chars_median": 248.0
+ }
+}

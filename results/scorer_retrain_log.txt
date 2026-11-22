@@ -1,0 +1,20 @@
+09:21:35 === stresstwin_f seed=0 fidelity=True
+09:50:31 F1=0.7563 AUROC=0.8387 ECE=0.0711 CC=0.876 ST|dp|=0.0300
+09:50:46 === stresstwin_f seed=1 fidelity=True
+10:21:05 F1=0.7710 AUROC=0.8401 ECE=0.0514 CC=0.885 ST|dp|=0.0329
+10:21:19 === stresstwin_f seed=2 fidelity=True
+10:50:46 F1=0.7665 AUROC=0.8355 ECE=0.0634 CC=0.853 ST|dp|=0.0324
+10:50:59 === stresstwin_f seed=3 fidelity=True
+11:21:09 F1=0.7755 AUROC=0.8465 ECE=0.0719 CC=0.859 ST|dp|=0.0298
+11:21:30 === stresstwin_f seed=4 fidelity=True
+11:51:17 F1=0.7696 AUROC=0.8399 ECE=0.0572 CC=0.871 ST|dp|=0.0308
+11:51:32 === plain_ft seed=0 fidelity=False
+12:09:18 F1=0.7641 AUROC=0.8322 ECE=0.0473 CC=0.599 ST|dp|=0.0463
+12:09:32 === plain_ft seed=1 fidelity=False
+12:26:55 F1=0.7584 AUROC=0.8218 ECE=0.0503 CC=0.534 ST|dp|=0.0393
+12:27:07 === plain_ft seed=2 fidelity=False
+12:44:26 F1=0.7588 AUROC=0.8327 ECE=0.0590 CC=0.542 ST|dp|=0.0410
+12:44:39 === plain_ft seed=3 fidelity=False
+13:01:57 F1=0.7564 AUROC=0.8428 ECE=0.0522 CC=0.545 ST|dp|=0.0390
+13:02:10 === plain_ft seed=4 fidelity=False
+13:19:24 F1=0.7624 AUROC=0.8345 ECE=0.0601 CC=0.538 ST|dp|=0.0381

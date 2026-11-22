@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+python-docx
+pytest
+# scorer training and scoring only (GPU recommended):
+# torch
+# transformers

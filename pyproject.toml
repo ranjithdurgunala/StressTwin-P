@@ -1,0 +1,10 @@
+[project]
+name = "stresstwin_p"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas", "scipy"]
+[project.optional-dependencies]
+gpu = ["torch", "transformers"]
+test = ["pytest"]
+[tool.setuptools]
+packages = ["stresstwin_p"]
